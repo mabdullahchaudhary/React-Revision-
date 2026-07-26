@@ -1,0 +1,18 @@
+
+
+Browser dont understand the jsx or 
+not even understand the html be like <p>hello</p>
+it always understand the pure js
+
+that's why in compilation stage the SWC(vite) or Babel convert our jsx/tsx file into pure js that help's browser to understand the code.
+
+
+=> const element=<h1 className="bg-red-500">Hello World</h1>
+
+after compilation it will convert something like this :
+
+=> const element = _jsx("h1", {
+    className: "header",
+    children: "Hello World"
+    });
+
