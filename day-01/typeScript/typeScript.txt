@@ -1,0 +1,5 @@
+
+
+One of the important thing is :
+
+typescript is always run on locally but when we run or start running site using cmd it convert the whole typescript into js again then run on browser typescript is just works in code editor that help developer to understand or write types in varaibles or in functions
