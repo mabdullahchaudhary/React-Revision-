@@ -1,0 +1,6 @@
+
+
+Closures be like 
+ 
+In lexical file we define the environment of a varaible where a function or varaible call's outside there environment it says i dont know about this varaible or function but in Closures function we can save our parent's function value even after exiting or returning from the function.
+

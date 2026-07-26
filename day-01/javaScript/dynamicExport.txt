@@ -1,0 +1,5 @@
+
+
+Brother let's see in dynamic import export we only import the data when ever we need not be like a static import means before using it we import it on the top brother let see we are going airport and we already know the weather is rainy but we didnt pick the umberalla cuz we dont want to pick it at first later when we are on the way then we decide should we need to import it the data (means instantly purchasing the new umberalla from shop) 
+
+we only do this when we know our imported library will be heavy and the user dont use this feature on the daily bases that's why we use this feature so when we load the whole website then it not imported at instantly it only imported the information or download this section from the server when use click on this page before clicking this page it was not loaded

@@ -1,0 +1,11 @@
+
+Everytime when we run js code on v8 engine it create's a environment called Environment Context. It works actually in 2 phases.
+
+=> Creation Phase 
+=> Execution Phase
+
+In Creation phase it allocate the memory of all varaible be like in var it allocate the undefined and for const and let it allocate the tdz tempale dead zone after that it moves into the execution phase and 
+
+In the execution phase it actually execute the code and assigned there values line by line
+
+Call Stack : after this we have a call stack when ever we call a function it will create there own execute context on the call stack and whenever the function end's it automatically terminate or pop-out from the call stack.

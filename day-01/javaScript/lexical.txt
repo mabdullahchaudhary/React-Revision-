@@ -1,0 +1,8 @@
+
+Lexial meaning : "Where the code actually written physically"
+
+In js which varaible is accessible in which function is define based on the varaible actually where created not based on the function where calling.
+
+we have some environments be like global environment if we call it globally we can access the varaible in whole code file but if we call the same function in specific function or in sub-function so we can only access there function or sub-function
+
+but if we are working on nested functions so the inner function can access the outer function varaible or even global varaible but the inner function varaible is never accessed by the outer function or outside the function it's be like a boundaries we set boundaries to every varaible that you can move just in specific environment.

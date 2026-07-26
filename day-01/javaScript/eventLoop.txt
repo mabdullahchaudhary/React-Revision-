@@ -1,0 +1,13 @@
+
+In js Engine we have 3 main things that is 
+=> callStack
+=> Microtask queues
+=> Macrotask queues
+
+
+=> callStack is the place where all the code execute line by line before this it's have a creation phase where memory is assigned to there varaibles.
+
+=> In Microtask queues do it the things which have high priorities be like promises , try, catch, finally etc
+
+=> In Macrotask queues do it the things which have low priorities be like setTimeout, setTimeinterval
+
